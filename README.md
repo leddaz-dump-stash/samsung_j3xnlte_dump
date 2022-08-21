@@ -1,0 +1,14 @@
+# j3xnltexx-user 5.1.1 LMY47V J320FNXXU0ARE1 release-keys
+- manufacturer: samsung
+- platform: sc8830
+- codename: j3xnlte
+- flavor: j3xnltexx-user
+- release: 5.1.1
+- id: LMY47V
+- incremental: J320FNXXU0ARE1
+- tags: release-keys
+- fingerprint: samsung/j3xnltexx/j3xnlte:5.1.1/LMY47V/J320FNXXU0ARE1:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: j3xnltexx-user-5.1.1-LMY47V-J320FNXXU0ARE1-release-keys
+- repo: samsung_j3xnlte_dump
